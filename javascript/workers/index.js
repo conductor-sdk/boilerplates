@@ -13,7 +13,7 @@ async function createTaskManager() {
     client,
     [
     {
-    taskDefName: "MyTaskName",
+    taskDefName: "appname",
     execute: async ({ inputData }) => {
     
       const message ="Hello world"
