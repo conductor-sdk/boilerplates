@@ -30,3 +30,10 @@ async function createTaskManager() {
     }
   );
 }
+
+async function main() {
+    const taskManager = await createTaskManager();
+    taskManager.startPolling();
+}
+
+main();
