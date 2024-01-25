@@ -1,0 +1,22 @@
+{
+    "files": [
+        {
+            "name":"package.json",
+            "fields":[
+                {
+                    "name": "appname",
+                    "attribute": "name"
+                }
+            ]
+        },
+        {
+            "name":"index.js",
+            "fields":[
+                {
+                    "name": "taskname",
+                    "attribute": "task"
+                }
+            ]
+        }
+    ]
+}
