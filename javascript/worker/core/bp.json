@@ -5,7 +5,8 @@
             "fields":[
                 {
                     "name": "appname",
-                    "attribute": "name"
+                    "attribute": "name",
+                    "prompt": "Name your application:"
                 }
             ]
         },
@@ -14,7 +15,8 @@
             "fields":[
                 {
                     "name": "taskname",
-                    "attribute": "task"
+                    "attribute": "task",
+                    "prompt": "Enter a task name:"
                 }
             ]
         }
